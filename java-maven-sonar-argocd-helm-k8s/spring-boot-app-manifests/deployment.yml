@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: ketan/ultimate-cicd:6
+        image: ketanl/ultimate-cicd:6
         ports:
         - containerPort: 8080
